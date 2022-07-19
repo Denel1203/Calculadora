@@ -13,7 +13,7 @@ cor5="#ed901f" #laranja
 
 
 janela =Tk()
-janela.title("Daniel Gostoso cal") #titulo 
+janela.title("Calculadora") #titulo 
 janela.geometry("235x310") # tamanho largura ecomprimento
 janela.config(bg=cor1)
 
